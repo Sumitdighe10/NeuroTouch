@@ -69,11 +69,9 @@ Enter EEG (alpha, beta, theta), HRV, and smartphone metrics manually or through 
 
 ## Screenshots
 
-![Dashboard](Screenshot%202025-03-31%20215212.png)
+![Dashboard](Screenshot%202025-04-03%20181538.png)
 
-![Trend Charts](images/trend_charts.png)
-
-![GPT Summary](images/gpt_summary.png)
+![GPT Summary](Screenshot%202025-03-31%20215212.png
 
 ---
 
